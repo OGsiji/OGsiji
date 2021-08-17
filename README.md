@@ -8,7 +8,7 @@
 
 - 🔭 I have experience in Computer Vision and Natural Language Processing
 - 🌱 I’m currently learning Music Decoding and Reinforcement Learning
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Research and Development Team
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play volley ball
 
