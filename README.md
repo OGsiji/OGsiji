@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" />&nbsp;
+<img src="https://img.shields.io/badge/AWS-ff1709?style=flat&logo=amazonaws&logoColor=white" />&nbsp;
 <br/><br/>
 <img align="left" alt="SQL" width="26px" src="https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e" />&nbsp;
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;
