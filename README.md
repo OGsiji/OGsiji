@@ -7,7 +7,7 @@
 ## I'm a Data Scientist, Software Developer, and Facilitator!!
 
 - 🔭 I have experience in Computer Vision and Natural Language Processing
-- 🌱 I’m currently learning Music Decoding and Reinforcement Learning
+- 🌱 I’m currently learning Signal Processing Decoding and Reinforcement Learning
 - 👯 I’m looking to collaborate with other Research and Development Team
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💻 OS - Linux (Ubuntu), Mac, Windows. 
