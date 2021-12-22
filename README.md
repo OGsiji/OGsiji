@@ -36,22 +36,6 @@
       <td>A Content-based movie recommendation system that recommend movies to a user by using the similarity of movies. This recommender system recommends movies based on their description or features. This application provides shows viewers sentiment(Negative/Positive), the ratings, about the movie and gives a detailed description of the characters in the movie(Date of Birth), Biography and so on.
 </td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
-      <td> Hepatitis B Fatality Predictor and Prescriptor help health practitioners with the prediction of a patient having Hepatitis B and prescribe ways to curb these if patient are Liable to die.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>THE HolyBible Text Analysis App!</b></a></td>
-      <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Barbershop"><b>Barber's Shop!</b></a></td>
-      <td> The goal of the project was to make locating a barbing salon in the subject area (Orimerunmu, Ogun state) so easy and to reduce unnnecessary queuing/waiting time of customer's in the barbing salon by building a barber's website for the presumed barber called Oscar. I used Oscar because that is my middle name.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Twitter-SentimentAirline-Analysis"><b>Customer support sentiment app!</b></a></td>
-      <td> Tweets Customer Sentiment Analysis determine the overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms or across the web as a whole..</td>
-    </tr>
   </tbody>
 </table>
 
