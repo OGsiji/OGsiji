@@ -27,6 +27,18 @@
   </thead>
   <tbody>
      <tr>
+      <tr>
+      <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
+      <td> Hepatitis B Fatality Predictor and Prescriptor help health practitioners with the prediction of a patient having Hepatitis B and prescribe ways to curb these if patient are Liable to die.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>THE HolyBible Text Analysis App!</b></a></td>
+      <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/Gift-Ojeabulu/Barbershop"><b>Barber's Shop!</b></a></td>
+      <td> The goal of the project was to make locating a barbing salon in the subject area (Orimerunmu, Ogun state) so easy and to reduce unnnecessary queuing/waiting time of customer's in the barbing salon by building a barber's website for the presumed barber called Oscar. I used Oscar because that is my middle name.</td>
+    </tr>
       <td><a href="https://github.com/ShaanCoding/Sectrics"><b>Sectrics - Truss Analysis Calculator!</b></a></td>
       <td>The Sectrics application is a Truss Analysis Calculator made to find the forces in each member, being tensile or compressive using the Finite Element Method. This program was part of the HSC course in Australia as part of my major project, as such this program is NOT intended to be used for real life structural analysis and therefore we take no responsibility for harm from the misuse/misfunctioning of this program.</td>
     </tr>
