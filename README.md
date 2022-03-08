@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Hi there, I'm Ogunniran Oluwasijibomi - aka OGsiji 👋
-There~ has been <img src="https://raw.githubusercontent.com/OGsiji/OGsiji/master/wave.gif" width="30px"> ![Visitor Count](https://profile-counter.glitch.me/allaye/count.svg) √î$î†ø®$ to this page
+There~ has been 👋 ![Visitor Count](https://profile-counter.glitch.me/allaye/count.svg) √î$î†ø®$ to this page
 
 [![Website](https://img.shields.io/website?label=OGsiji.com&style=for-the-badge&url=https%3A%2F%2FOGsiji.com)](https://OGsiji.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OGsiji?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOGsiji&screen_name=OGsiji)
