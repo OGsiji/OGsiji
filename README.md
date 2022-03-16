@@ -29,25 +29,17 @@ There~ has been 👋 ![Visitor Count](https://profile-counter.glitch.me/allaye/c
   <tbody>
      <tr>
       <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Hepatitis-predmedical-App"><b>Hepatitis Medical App!</b></a></td>
-      <td> Hepatitis B Fatality Predictor and Prescriptor help health practitioners with the prediction of a patient having Hepatitis B and prescribe ways to curb these if patient are Liable to die.</td>
+      <td><a href="https://github.com/OGsiji/Quora-Question-Pair-Similarity-Deployed-on-Flask"><b>Quora-Question-Pair-Similarity-Deployed-on-Flask!</b></a></td>
+      <td> Identify which questions asked on Quora are duplicates of questions that have already been asked.</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/BibleText-Analysis"><b>THE HolyBible Text Analysis App!</b></a></td>
-      <td>An NLP Bible App that identify the Part of Speech of each word in the bible,Keyword and a graphical visualization of most common word in each verses.</td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Barbershop"><b>Barber's Shop!</b></a></td>
-      <td> The goal of the project was to make locating a barbing salon in the subject area (Orimerunmu, Ogun state) so easy and to reduce unnnecessary queuing/waiting time of customer's in the barbing salon by building a barber's website for the presumed barber called Oscar. I used Oscar because that is my middle name.</td>
     </tr>
       <td><a href="https://github.com/ShaanCoding/Sectrics"><b>Sectrics - Truss Analysis Calculator!</b></a></td>
       <td>The Sectrics application is a Truss Analysis Calculator made to find the forces in each member, being tensile or compressive using the Finite Element Method. This program was part of the HSC course in Australia as part of my major project, as such this program is NOT intended to be used for real life structural analysis and therefore we take no responsibility for harm from the misuse/misfunctioning of this program.</td>
     </tr>
     <tr>
     <tr>
-      <td><a href="https://github.com/Gift-Ojeabulu/Movie-Recommendation-System"><b>Movie Recommender App!</b></a></td>
-      <td>A Content-based movie recommendation system that recommend movies to a user by using the similarity of movies. This recommender system recommends movies based on their description or features. This application provides shows viewers sentiment(Negative/Positive), the ratings, about the movie and gives a detailed description of the characters in the movie(Date of Birth), Biography and so on.
-</td>
+      <td><a href="https://github.com/OGsiji/Transrisk-Innovation"><b>TransRisk Innovation</b></a></td>
+      <td>This model predicts the occurence of Taffic Accidents in Nigeria, there are also aspects of automated data extraction and modelling</td>
     </tr>
   </tbody>
 </table>
