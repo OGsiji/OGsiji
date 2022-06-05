@@ -15,7 +15,6 @@ There~ has been 👋 ![Visitor Count](https://profile-counter.glitch.me/allaye/c
 - 👯 looking to collaborate on world-changing projects.
 - 💬 you can ask me about anything.
 - ⚡ Fun fact: I love to draw and play volley ball
-- 🤔 I’m looking for help with getting a Remote/Full-time Job as a Data Scientist/Machine Learning Engineer/Data Analyst/Developer Advocate/Technical Writer.
 - ⚡ Whenever I'm not on my laptop coding, I am either making Data Science/Machine learning related Blog posts, Twitter threads, LinkedIn posts,Mentoring a beginner, showing them the right roadmap to learning data science, learning a new dance step, in my space rapping to a beat or improving my singing & drumming skills.
 
 <h2>Projects I'm proud of</h2>
