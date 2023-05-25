@@ -8,9 +8,9 @@ There~ has been 👋 ![Visitor Count](https://profile-counter.glitch.me/allaye/c
 ## I'm a Data Scientist, Software Developer, and Facilitator!!
 
 - 🔭 I have experience in Computer Vision and Natural Language Processing
-- 🌱 I’m currently learning Signal Processing Decoding and Reinforcement Learning
+- 🌱 I’m currently learning Signal Processing Decoding and Large Language Models
 - 👯 I’m looking to collaborate with other Research and Development Team
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 Currently building <a href="https://www.transrisk.io/"><b>Transrisk</b>
 - 💻 OS - Linux (Ubuntu), Mac, Windows. 
 - 👯 looking to collaborate on world-changing projects.
 - 💬 you can ask me about anything.
