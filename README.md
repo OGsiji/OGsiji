@@ -7,9 +7,9 @@ There~ has been 👋 ![Visitor Count](https://profile-counter.glitch.me/allaye/c
 
 ## I'm a Data Scientist, Software Developer, and Facilitator!!
 
-- 🔭 I have experience in Computer Vision and Natural Language Processing
 - 🌱 I’m currently learning Signal Processing Decoding and Large Language Models
 - 👯 I’m looking to collaborate with other Research and Development Team
+-  💻 You can find my articles on <a href="https://ogsiji.hashnode.dev/"><b>Hashnode</b> and <a href="https://medium.com/@ogunniransiji"><b>Meduim</b>
 - 🥅 Currently building <a href="https://www.transrisk.io/"><b>Transrisk</b>
 - 💻 OS - Linux (Ubuntu), Mac, Windows. 
 - 👯 looking to collaborate on world-changing projects.
