@@ -5,7 +5,7 @@ There~ has been 👋 ![Visitor Count](https://profile-counter.glitch.me/allaye/c
 [![Website](https://img.shields.io/website?label=OGsiji.com&style=for-the-badge&url=https%3A%2F%2FOGsiji.com)](https://www.linkedin.com/in/ogunniransijibomi/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OGsiji?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOGsiji&screen_name=OGsiji)
 
-## Senior Data Professional | Driving Optimal Data Pipeline Performance | Leading Advanced Analytics Initiatives!!
+## Senior Data Professional | Driving Optimal Data Pipeline Performance | Leading Advanced Analytics Initiatives
 
 
 - 👯 I’m looking to collaborate with other Research and Development Team
