@@ -32,13 +32,14 @@ There~ has been 👋 ![Visitor Count](https://profile-counter.glitch.me/allaye/c
       <td> Identify which questions asked on Quora are duplicates of questions that have already been asked.</td>
     </tr>
     </tr>
-      <td><a href="https://github.com/ShaanCoding/Sectrics"><b>Sectrics - Truss Analysis Calculator!</b></a></td>
-      <td>The Sectrics application is a Truss Analysis Calculator made to find the forces in each member, being tensile or compressive using the Finite Element Method. This program was part of the HSC course in Australia as part of my major project, as such this program is NOT intended to be used for real life structural analysis and therefore we take no responsibility for harm from the misuse/misfunctioning of this program.</td>
+      <td><a href="https://github.com/OGsiji/Enhanced_GraphRAG"><b>Enhanced GraphRAG!</b></a></td>
+      <td>
+A project to demonstrate work on GraphRAG building a Knowledge Graph generator that extends the GraphRAG-SDK framework to handle PDF files using the Unstructured-IO library.</td>
     </tr>
     <tr>
     <tr>
-      <td><a href="https://github.com/OGsiji/Transrisk-Innovation"><b>TransRisk Innovation</b></a></td>
-      <td>This model predicts the occurence of Taffic Accidents in Nigeria, there are also aspects of automated data extraction and modelling</td>
+      <td><a href="https://github.com/OGsiji/Enhanced_Spark_Modelling"><b>Enhanced_Spark_Modelling</b></a></td>
+      <td>This project demonstrates a robust, scalable solution for processing and analyzing large-scale task log datasets using Apache Spark, showcasing advanced big data engineering principles and techniques.</td>
     </tr>
   </tbody>
 </table>
