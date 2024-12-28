@@ -28,8 +28,8 @@ There~ has been 👋 ![Visitor Count](https://profile-counter.glitch.me/allaye/c
   <tbody>
      <tr>
       <tr>
-      <td><a href="https://github.com/OGsiji/Quora-Question-Pair-Similarity-Deployed-on-Flask"><b>Quora-Question-Pair-Similarity-Deployed-on-Flask!</b></a></td>
-      <td> Identify which questions asked on Quora are duplicates of questions that have already been asked.</td>
+      <td><a href="https://github.com/OGsiji/airflow-tutorial"><b>Airflow-Dbt-BigQuery!</b></a></td>
+      <td> Data Engineer Project: An end-to-end Airflow data pipeline with BigQuery, dbt Soda, and more!</td>
     </tr>
     </tr>
       <td><a href="https://github.com/OGsiji/Enhanced_GraphRAG"><b>Enhanced GraphRAG!</b></a></td>
