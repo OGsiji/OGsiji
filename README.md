@@ -1,95 +1,56 @@
-### Hi there 👋
-### Hi there, I'm Ogunniran Oluwasijibomi - aka OGsiji 👋
-There~ has been 👋 ![Visitor Count](https://profile-counter.glitch.me/allaye/count.svg) √î$î†ø®$ to this page
+<h1 align="center">Hi, I'm Ogunniran Oluwasijibomi (OGsiji) 👋</h1>
 
-[![Website](https://img.shields.io/website?label=OGsiji.com&style=for-the-badge&url=https%3A%2F%2FOGsiji.com)](https://www.linkedin.com/in/ogunniransijibomi/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OGsiji?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOGsiji&screen_name=OGsiji)
+<p align="center">
+  <b>Lead AI / Data Engineer · Building multi-tenant data platforms and production LLM systems</b>
+</p>
 
-## Senior Data Professional | Driving Optimal Data Pipeline Performance | Leading Advanced Analytics Initiatives
+<p align="center">
+  <a href="https://www.linkedin.com/in/ogunniransijibomi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/OGsiji"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@ogunniransiji"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://ogsiji.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="mailto:ogunniransiji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+---
 
-- 👯 I’m looking to collaborate with other Research and Development Team
--  💻 You can find my articles on <a href="https://ogsiji.hashnode.dev/"><b>Hashnode</b> and <a href="https://medium.com/@ogunniransiji"><b>Meduim</b>
-- 🥅 Currently building <a href="https://www.transrisk.io/"><b>Transrisk</b>
-- 💻 OS - Linux (Ubuntu), Mac, Windows. 
-- 👯 looking to collaborate on world-changing projects.
-- 💬 you can ask me about anything.
-- ⚡ Fun fact: I love to draw and play volley ball
-- ⚡ Whenever I'm not on my laptop coding, I am either making Data Science/Machine learning related Blog posts, Twitter threads, LinkedIn posts,Mentoring a beginner, showing them the right roadmap to learning data science, learning a new dance step, in my space rapping to a beat or improving my singing & drumming skills.
+## About Me
 
-<h2>Projects I'm proud of</h2>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>☀️ Projects</b></td>
-      <td><b>💬 Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <tr>
-      <td><a href="https://github.com/OGsiji/airflow-tutorial"><b>Airflow-Dbt-BigQuery!</b></a></td>
-      <td> Data Engineer Project: An end-to-end Airflow data pipeline with BigQuery, dbt Soda, and more!</td>
-    </tr>
-    </tr>
-      <td><a href="https://github.com/OGsiji/Enhanced_GraphRAG"><b>Enhanced GraphRAG!</b></a></td>
-      <td>
-A project to demonstrate work on GraphRAG building a Knowledge Graph generator that extends the GraphRAG-SDK framework to handle PDF files using the Unstructured-IO library.</td>
-    </tr>
-    <tr>
-    <tr>
-      <td><a href="https://github.com/OGsiji/Enhanced_Spark_Modelling"><b>Enhanced_Spark_Modelling</b></a></td>
-      <td>This project demonstrates a robust, scalable solution for processing and analyzing large-scale task log datasets using Apache Spark, showcasing advanced big data engineering principles and techniques.</td>
-    </tr>
-  </tbody>
-</table>
+I'm a data and AI engineer with 6+ years of experience taking systems from whiteboard to production. I currently lead AI, backend, and data engineering at **Descasio**, where I'm building a multi-tenant Data Intelligence Platform on AWS (EventBridge, Glue, Athena, Lambda, ECS Fargate, Bedrock) that ingests, transforms, and serves analytics and LLM-powered insights across tenants.
 
+- 🚀 Founder of **[TransRisk.AI](https://www.transrisk.io/)**, a transport risk intelligence platform using computer vision and deep learning
+- 🛠️ Building **MarketCore**, an AI-native, multi-tenant marketing automation engine
+- 📦 Previously led data engineering at Circo, designing event-driven engagement and ledger systems on Kafka, FastAPI, and dbt
+- ✍️ I write about data engineering and ML on [Medium](https://medium.com/@ogunniransiji) and [Hashnode](https://ogsiji.hashnode.dev/)
+- 🤝 Open to collaborating on data platforms, applied LLM systems, and open-source tooling
 
+## What I Work With
 
+| Area | Tools |
+|---|---|
+| **Cloud & Infra** | AWS (Glue, Athena, Lambda, ECS Fargate, EventBridge, S3, DynamoDB, Bedrock), GCP (BigQuery), Terraform, Docker |
+| **Data Engineering** | Airflow, dbt, Spark, Kafka, SQL, Pandas, Soda |
+| **AI / ML** | LangGraph, LangChain, RAG & GraphRAG, scikit-learn, computer vision |
+| **Backend** | Python, FastAPI, Django REST, PostgreSQL, MongoDB, microservices |
 
-### Connect with me:
+## Featured Projects
 
+| Project | What it does |
+|---|---|
+| [**data-contract-validator**](https://github.com/OGsiji/data-contract-validator) | Open-source CI guard that validates dbt models against FastAPI/Pydantic schemas, catching breaking contract changes before they ship |
+| [**Enhanced GraphRAG**](https://github.com/OGsiji/Enhanced_GraphRAG) | Knowledge-graph generator extending the GraphRAG-SDK framework to handle PDFs via Unstructured-IO |
+| [**Airflow + dbt + BigQuery Pipeline**](https://github.com/OGsiji/airflow-tutorial) | End-to-end orchestrated data pipeline with Airflow, BigQuery, dbt, and Soda data-quality checks |
+| [**Audio Transcription System**](https://github.com/OGsiji/audio-transcription-system) | Production-style audio transcription tooling built for scale |
+| [**Enhanced Spark Modelling**](https://github.com/OGsiji/Enhanced_Spark_Modelling) | Scalable Apache Spark solution for processing and analyzing large-scale task log datasets |
 
-[<img align="left" alt="OGsiji | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="OGsiji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="OGsiji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Stats
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OGsiji&theme=dark&show_icons=true&hide_border=true" alt="OGsiji's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGsiji&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp;
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp;
-<img align="left" alt="SQL" width="26px" src="https://miro.medium.com/max/449/1*Bh_B98GcAHTzYq21D79GLg.png" /> &nbsp;
-<img align="left" alt="SQL" width="26px" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg" /> &nbsp;
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />&nbsp;
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" />&nbsp;
-<img src="https://img.shields.io/badge/AWS-ff1709?style=flat&logo=amazonaws&logoColor=white" />&nbsp;
-<br/><br/>
-<img align="left" alt="SQL" width="26px" src="https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e" />&nbsp;
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp;
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
-<br/><br/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Google%20Meet-32A350?style=flat&logo=google-meet&logoColor=white" />&nbsp;
-<br/><br/>
-<br/><br/><br/>
-
-
-
-### 💪 Stats: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGsiji&layout=compact&theme=dark)](https://github.com/OGsiji/github-readme-stats)\
-![OGsiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGsiji&theme=dark&show_icons=true)
-
-
-[Twitter]: https://twitter.com/OGsiji
-[Instagram]: https://instagram.com//OGsiji
-[Facebook]: https://facebook.com/OGsiji
-[LinkedIn]: https://www.linkedin.com/in/ogunniransijibomi
+<p align="center">⚡ Off the keyboard: drawing, volleyball, mentoring beginners into data careers, and making music.</p>
