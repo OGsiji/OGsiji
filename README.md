@@ -46,9 +46,14 @@ I'm a data and AI engineer with 6+ years of experience taking systems from white
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OGsiji&theme=dark&show_icons=true&hide_border=true" alt="OGsiji's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGsiji&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OGsiji&theme=github_dark" alt="OGsiji's GitHub activity summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OGsiji&theme=github_dark" alt="Top languages by repo" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OGsiji&theme=github_dark" alt="Top languages by commit" height="160" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OGsiji&theme=dark&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
