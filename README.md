@@ -18,8 +18,7 @@
 
 I'm a data and AI engineer with 6+ years of experience taking systems from whiteboard to production. I currently lead AI, backend, and data engineering at **Descasio**, where I'm building a multi-tenant Data Intelligence Platform on AWS (EventBridge, Glue, Athena, Lambda, ECS Fargate, Bedrock) that ingests, transforms, and serves analytics and LLM-powered insights across tenants.
 
-- 🚀 Founder of **[TransRisk.AI](https://www.transrisk.io/)**, a transport risk intelligence platform using computer vision and deep learning
-- 🛠️ Building **MarketCore**, an AI-native, multi-tenant marketing automation engine
+- 🚀 Founder of **[MarketCore](https://marketcore.co)**, an AI-native, multi-tenant marketing automation engine
 - 📦 Previously led data engineering at Circo, designing event-driven engagement and ledger systems on Kafka, FastAPI, and dbt
 - ✍️ I write about data engineering and ML on [Medium](https://medium.com/@ogunniransiji) and [Hashnode](https://ogsiji.hashnode.dev/)
 - 🤝 Open to collaborating on data platforms, applied LLM systems, and open-source tooling
