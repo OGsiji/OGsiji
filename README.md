@@ -53,7 +53,7 @@ I'm a data and AI engineer with 6+ years of experience taking systems from white
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OGsiji&theme=github_dark" alt="Top languages by commit" height="160" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OGsiji&theme=dark&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=OGsiji&theme=dark&hide_border=true&disable_animations=true" alt="GitHub contribution streak" />
 </p>
 
 ---
