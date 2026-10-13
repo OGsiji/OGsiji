@@ -32,6 +32,12 @@ I'm a data and AI engineer with 6+ years of experience taking systems from white
 | **AI / ML** | LangGraph, LangChain, RAG & GraphRAG, scikit-learn, computer vision |
 | **Backend** | Python, FastAPI, Django REST, PostgreSQL, MongoDB, microservices |
 
+### Open Source Contributions
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+[![Contributor](https://img.shields.io/badge/5%20PRs%20MERGED-DATA%20CONTRACT%20CLI-1F232C?style=for-the-badge&logo=github&logoColor=0B3D91&labelColor=B8D4FF)](https://github.com/datacontract/datacontract-cli/pulls?q=is%3Apr+author%3AOGsiji+is%3Amerged)
+[![Contributor](https://img.shields.io/badge/2%20PRs%20MERGED-APACHE%20OSSIE-1F232C?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=FFD1D1)](https://github.com/apache/ossie/pulls?q=is%3Apr+author%3AOGsiji+is%3Amerged)
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-AWESOME--DBT-1F232C?style=for-the-badge&logo=dbt&logoColor=FF694B&labelColor=FFE0D6)](https://github.com/Hiflylabs/awesome-dbt/pulls?q=is%3Apr+author%3AOGsiji+is%3Amerged)
+
 ## Featured Projects
 
 | Project | What it does |
